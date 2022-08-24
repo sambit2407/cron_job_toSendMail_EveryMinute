@@ -1,6 +1,6 @@
 ## Schedule your time
 
-Install with [npm](https://www.npmjs.com/):
+
 
 ```sh
 schedule.every(10).seconds.do(job)
